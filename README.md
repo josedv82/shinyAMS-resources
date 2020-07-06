@@ -24,6 +24,10 @@ I hope you find this document useful. If you feel I can be of any help or if you
 Best,  
 Jose Fernandez
 
+```
+Big thanks to those investing their time and knowledge to build these resources for others to use
+```
+
 <hr>
 
 
