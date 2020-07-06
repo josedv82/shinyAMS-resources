@@ -3,7 +3,7 @@
 ##### Jose Fernandez
 ---
 
-### **Preface**
+### **Intro**
 
 Professional sports organizations have exponentially increased the adoption of new technologies and access to broader and larger amounts of information in recent years. Furthermore, medical and performance departments have also grown in size with more staff members and a wider variety of backgrounds (ATCs, S&C, Rehab Coaches, Sport Scientist, Nutritionits, Sport Psychologists, etc.). As a result, the demand for platforms that leverage aggregation, interpretation, reporting and sharing of this information at different levels within and across departments is becoming more relevant.
 
