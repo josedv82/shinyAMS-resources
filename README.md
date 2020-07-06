@@ -11,7 +11,7 @@ Sport Scientists often work at the intersection of coaching and analysis with di
 
 ### About this document
 
-Over the last decade I've been exposed in different ways to some of the most common AMS platforms available to sport medicine and performance teams. I have also been involved in designing, building and deploying athlete data management solutions using a variety of business intelligence tools. In recent years, I started to rely more on [Shiny](https://shiny.rstudio.com/) than other options as my framework of choice to build interactive web applications, some of which, ended up fully replacing commercial software, some others were simply developed to cover a specific need that other commercial products were not covering at that exact time.
+Over the last decade I've been exposed in different ways to some of the most common AMS platforms available to sport medicine and performance teams. I have also been involved in designing, building and deploying athlete data management solutions using a variety of business intelligence tools. In recent years, I started to rely more on [Shiny](https://shiny.rstudio.com/) than other options as my framework of choice to build interactive web applications, some of which, ended up fully replacing commercial software, some others were simply developed to cover a specific need that other products were not able to cover at that exact time.
 
 Some degree of familiarity with the [R language](https://www.r-project.org/about.html) and Shiny programming is needed to better understand the resources shown on this document. If this is not the case, I recommend checking out some of the many great publicly available [resources](https://mastering-shiny.org/) to learn the basics of Shiny. My goal is to highlight and discuss various elements I tend to include or have the potential to improve user-app interaction, engagement and overall experience. As you can see, most of the focus will be on the [User Interface (UI)](https://en.wikipedia.org/wiki/User_interface) side of things.
 
@@ -28,17 +28,17 @@ Jose Fernandez
 
 
 ### 1. **Dashboarding**
-#### 1.1 Basic Shiny
+##### 1.1 Basic Shiny
 - [Learning Materials](https://shiny.rstudio.com/tutorial/)
 
-#### 1.2 Shinydashboard
+##### 1.2 Shinydashboard
 - [Expands dashboarding functionality](https://rstudio.github.io/shinydashboard/index.html)
 
-#### 1.3 Html Templates
+##### 1.3 Html Templates
 - [Rinterface](https://rinterface.com/)  
 - [Shiny Semantic](https://github.com/Appsilon/shiny.semantic) 
 
-#### 1.4 Mobile Devices
+##### 1.4 Mobile Devices
 - [shinyMobile](https://rinterface.github.io/shinyMobile/index.html)
 - [MiniUI](https://github.com/rstudio/miniUI)
 
@@ -50,19 +50,19 @@ Jose Fernandez
 
 
 ### 3. **Showing Data**  
-#### 3.1 Static Plots  
+##### 3.1 Static Plots  
 - [Base R](https://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)  
 - [Ggplot2](https://ggplot2.tidyverse.org/)
 
-#### 3.2 Interactive Plots
+##### 3.2 Interactive Plots
 - [Plotly](https://plotly.com/r/)  
 - [Echarts4R](https://echarts4r.john-coene.com/)
 - [sparkline](https://github.com/htmlwidgets/sparkline)
 
-#### 3.3 Mobile Charts
+##### 3.3 Mobile Charts
 - [mobileCharts](https://shiny.john-coene.com/mobileCharts/)
 
-#### 3.4 Tables
+##### 3.4 Tables
 - [Gt](https://gt.rstudio.com/) 
 - [DT](https://rstudio.github.io/DT/) 
 - [Formattable](http://renkun-ken.github.io/formattable/)    
@@ -70,22 +70,22 @@ Jose Fernandez
 - [Reacttable](https://glin.github.io/reactable/) 
 - [Graphical Tables](https://pdfs.semanticscholar.org/76a0/c9984d656592f2979569e895333de21464bb.pdf?_ga=2.39740005.714811824.1593711014-2057169377.1593711014)  
 
-#### 3.5 Editable Tables
+##### 3.5 Editable Tables
 - via [DT](https://blog.rstudio.com/2018/03/29/dt-0-4/) 
 - [DTedit](https://github.com/jbryer/DTedit)
 - [RhandonTable](https://cran.r-project.org/web/packages/rhandsontable/vignettes/intro_rhandsontable.html)
 
-#### 3.6 Pivot Tables
+##### 3.6 Pivot Tables
 - [pivottabler](http://www.pivottabler.org.uk/articles/)
 - [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable)
 - [pivtatool](https://github.com/feddelegrand7/pivtatool)
 
 ### 4. **Notifications / Alerts / User Feedback**
-#### 4.1 Basic Shiny
+##### 4.1 Basic Shiny
 - [Basic Notifications](https://shiny.rstudio.com/articles/notifications.html) 
 - [Modals](https://shiny.rstudio.com/articles/modal-dialogs.html)
 
-#### 4.2 Via package
+##### 4.2 Via package
 - [ShinyAlert](https://github.com/daattali/shinyalert) 
 - [Toastr](https://github.com/MangoTheCat/shinytoastr) 
 - [sweetAlert](http://shinyapps.dreamrs.fr/shinyWidgets/) (via shinyWidgets)  
