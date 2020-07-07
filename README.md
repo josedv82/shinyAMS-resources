@@ -119,41 +119,44 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Glyphicon](https://getbootstrap.com/docs/3.3/components/) 
 - [Use your own image](https://gist.github.com/hrbrmstr/605e62c5bf6deadf304d80cf4b1f0239)  (example)
 
-### 9. **Error Messages**
+### 9. **Calendars**
+- [tuicalendr](https://github.com/dreamRs/tuicalendr)
+
+### 10. **Error Messages**
 - [Basic Sanitizing](https://shiny.rstudio.com/articles/sanitize-errors.html)
 - [via Validation](https://shiny.rstudio.com/articles/validation.html) 
 - [via CSS (supress errors)](https://stackoverflow.com/questions/24652658/suppress-warning-message-in-r-console-of-shiny)
 - [sever (via cleave)](https://sever.john-coene.com/cleave/)
 
-### 10. **Expanded Functionalities**
+### 11. **Expanded Functionalities**
 - [ShinyJS](https://deanattali.com/shinyjs/)
 - [pushBar](https://github.com/JohnCoene/pushbar)
 - [Effects](https://github.com/RinteRface/shinyEffects)
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui)
 
-### 11. **File Access**
+### 12. **File Access**
 - [Access to server side files](https://github.com/thomasp85/shinyFiles)
 
-### 12. **Big AMS**
+### 13. **Big AMS**
 - [Modules](https://shiny.rstudio.com/articles/modules.html)
 
-### 13. **User Authentication**
+### 14. **User Authentication**
 - [firebase](https://github.com/JohnCoene/firebase)
 - [shinyauthr](https://github.com/PaulC91/shinyauthr)
 - [shinymanager](https://datastorm-open.github.io/shinymanager/)
 
-### 14. **App Reloading**
+### 15. **App Reloading**
 - [sever](https://sever.john-coene.com/)
 
-### 15. **App Tutorials / Tours**
+### 16. **App Tutorials / Tours**
 - [Cicerone](https://github.com/JohnCoene/cicerone)
 - [introJS](https://github.com/carlganz/rintrojs)
 
-### 16. **Emailing**
+### 17. **Emailing**
 - [Native tutorial](https://www.r-bloggers.com/download-and-email-reports-in-r-shiny-app/)
 - [mailtoR](https://github.com/feddelegrand7/mailtoR)
 
-### 17. **Exporting Options**
+### 18. **Exporting Options**
 - [Download any type of report](https://www.r-bloggers.com/download-and-email-reports-in-r-shiny-app/)
 - [another example](https://shiny.rstudio.com/articles/generating-reports.html)
 - [Exporting user notes](https://github.com/jienagu/noteMD)
