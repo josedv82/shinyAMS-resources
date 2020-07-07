@@ -94,6 +94,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Toastr](https://github.com/MangoTheCat/shinytoastr) 
 - [sweetAlert](http://shinyapps.dreamrs.fr/shinyWidgets/) (via shinyWidgets)  
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) 
+- [shinyPop](https://github.com/dreamRs/shinypop)
 
 ### 5. **Forms**
 - Form Code example (to do)  
