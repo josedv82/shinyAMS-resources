@@ -77,12 +77,12 @@ Big thanks to those investing their time and knowledge to build these resources 
 ##### 3.5 Editable Tables
 - via [DT](https://blog.rstudio.com/2018/03/29/dt-0-4/) 
 - [DTedit](https://github.com/jbryer/DTedit)
-- [RhandonTable](https://cran.r-project.org/web/packages/rhandsontable/vignettes/intro_rhandsontable.html)
+- [RhandsonTable](https://cran.r-project.org/web/packages/rhandsontable/vignettes/intro_rhandsontable.html)
 
 ##### 3.6 Pivot Tables
 - [pivottabler](http://www.pivottabler.org.uk/articles/)
 - [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable)
-- [pivtatool](https://github.com/feddelegrand7/pivtatool)
+- [pivta](https://github.com/feddelegrand7/pivta)
 
 ### 4. **Notifications / Alerts / User Feedback**
 ##### 4.1 Basic Shiny
