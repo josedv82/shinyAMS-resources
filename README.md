@@ -135,7 +135,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui)
 
 ### 12. **File Access**
-- [Access to server side files](https://github.com/thomasp85/shinyFiles)
+- [shinyFiles](https://github.com/thomasp85/shinyFiles)
 
 ### 13. **Big AMS**
 - [Modules](https://shiny.rstudio.com/articles/modules.html)
