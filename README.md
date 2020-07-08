@@ -144,6 +144,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [firebase](https://github.com/JohnCoene/firebase)
 - [shinyauthr](https://github.com/PaulC91/shinyauthr)
 - [shinymanager](https://datastorm-open.github.io/shinymanager/)
+- [polished](https://polished.tech/)
 
 ### 15. **App Reloading**
 - [sever](https://sever.john-coene.com/)
