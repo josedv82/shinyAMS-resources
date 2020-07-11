@@ -162,3 +162,9 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [another example](https://shiny.rstudio.com/articles/generating-reports.html)
 - [Exporting user notes](https://github.com/jienagu/noteMD)
 
+## Final notes:
+
+This document is an extension of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1197909220890480640)
+
+<img width="350" src="https://www.dropbox.com/s/7tal1q153xi3jo7/shinytweet.png?raw=1">
+
