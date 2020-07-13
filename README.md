@@ -62,6 +62,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Plotly](https://plotly.com/r/)  
 - [Echarts4R](https://echarts4r.john-coene.com/)
 - [sparkline](https://github.com/htmlwidgets/sparkline)
+- [dataui](https://timelyportfolio.github.io/dataui/index.html)
 
 ##### 3.3 Mobile Charts
 - [mobileCharts](https://shiny.john-coene.com/mobileCharts/)
