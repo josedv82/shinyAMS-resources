@@ -150,6 +150,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 ### 15. **App Reloading**
 - [sever](https://sever.john-coene.com/)
+- [shinyDisconnect](https://github.com/daattali/shinydisconnect)
 
 ### 16. **App Tutorials / Tours**
 - [Cicerone](https://github.com/JohnCoene/cicerone)
@@ -163,6 +164,10 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Download any type of report](https://www.r-bloggers.com/download-and-email-reports-in-r-shiny-app/)
 - [another example](https://shiny.rstudio.com/articles/generating-reports.html)
 - [Exporting user notes](https://github.com/jienagu/noteMD)
+
+### 19. **Images**
+
+- [shinyGallery](https://github.com/stefanieschneider/shinygallery)
 
 ## Final notes:
 
