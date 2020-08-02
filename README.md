@@ -135,6 +135,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [pushBar](https://github.com/JohnCoene/pushbar)
 - [Effects](https://github.com/RinteRface/shinyEffects)
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui)
+- [fabricerin](https://github.com/feddelegrand7/fabricerin)
 
 ### 12. **File Access**
 - [shinyFiles](https://github.com/thomasp85/shinyFiles)
