@@ -73,8 +73,8 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [DT](https://rstudio.github.io/DT/) 
 - [Formattable](http://renkun-ken.github.io/formattable/)    
 - [Flextable](https://davidgohel.github.io/flextable/)  
-- [Reacttable](https://glin.github.io/reactable/) 
-- [Graphical Tables](https://pdfs.semanticscholar.org/76a0/c9984d656592f2979569e895333de21464bb.pdf?_ga=2.39740005.714811824.1593711014-2057169377.1593711014)  
+- [Reacttable](https://glin.github.io/reactable/) + [my example](https://github.com/josedv82/ReactTable-Shiny)
+- [Graphical Tables](https://pdfs.semanticscholar.org/76a0/c9984d656592f2979569e895333de21464bb.pdf?_ga=2.39740005.714811824.1593711014-2057169377.1593711014) + [my example](https://github.com/josedv82/graphicalDT)
 
 ##### 3.5 Editable Tables
 - via [DT](https://blog.rstudio.com/2018/03/29/dt-0-4/) 
@@ -97,6 +97,12 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [sweetAlert](http://shinyapps.dreamrs.fr/shinyWidgets/) (via shinyWidgets)  
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) 
 - [shinyPop](https://github.com/dreamRs/shinypop)
+
+##### 4.3 Push Notes to athlete's mobile phones
+- [Pushover](https://cran.r-project.org/web/packages/pushoverr/pushoverr.pdf) + [my example](https://github.com/josedv82/Push_Notes_to_Athlete)
+- [Pushbullet](https://cran.r-project.org/web/packages/RPushbullet/index.html)
+- [slackR](https://github.com/hrbrmstr/slackr)
+- [Twilio](https://github.com/seankross/twilio)
 
 ### 5. **Forms**
 - Form Code example (to do)  
