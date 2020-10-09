@@ -39,7 +39,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Expands dashboarding functionality](https://rstudio.github.io/shinydashboard/index.html)
 
 ##### 1.3 Html Templates
-- [Rinterface](https://rinterface.com/) + [\textcolor{red}{shinyDashboardPlus Example}](https://josedv.shinyapps.io/NBASchedule/)
+- [Rinterface](https://rinterface.com/) + [shinyDashboardPlus Example](https://josedv.shinyapps.io/NBASchedule/)
 - [Shiny Semantic](https://github.com/Appsilon/shiny.semantic) 
 
 ##### 1.4 Mobile Devices
