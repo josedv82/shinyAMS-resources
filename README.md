@@ -179,7 +179,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 - [shinyGallery](https://github.com/stefanieschneider/shinygallery)  
 
-### 20. **Object Serialization (Reading/Savin Data)**
+### 20. **Object Serialization (Reading/Saving Data)**
 
 - [fst](https://www.fstpackage.org/)
 - [feather](https://blog.rstudio.com/2016/03/29/feather/)
