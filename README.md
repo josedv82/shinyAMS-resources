@@ -52,6 +52,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Fresh](https://github.com/dreamRs/fresh)  
 - [shinyMaterial](https://ericrayanderson.github.io/shinymaterial/)
 - [bootstraplib](https://rstudio.github.io/bootstraplib/)
+- [thematic](https://rstudio.github.io/thematic/articles/auto.html)
 
 
 ### 3. **Showing Data**  
