@@ -50,7 +50,8 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [ShinyThemes](https://rstudio.github.io/shinythemes/) 
 - [Dashboardthemes](https://github.com/nik01010/dashboardthemes)
 - [Fresh](https://github.com/dreamRs/fresh)  
-- [shinyMaterial](https://ericrayanderson.github.io/shinymaterial/) 
+- [shinyMaterial](https://ericrayanderson.github.io/shinymaterial/)
+- [bootstraplib](https://rstudio.github.io/bootstraplib/)
 
 
 ### 3. **Showing Data**  
