@@ -139,6 +139,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [via Validation](https://shiny.rstudio.com/articles/validation.html) 
 - [via CSS (supress errors)](https://stackoverflow.com/questions/24652658/suppress-warning-message-in-r-console-of-shiny)
 - [sever (via cleave)](https://sever.john-coene.com/cleave/)
+- [shinyValidate](https://github.com/rstudio/shinyvalidate)
 
 ### 11. **Expanded Functionalities**
 - [ShinyJS](https://deanattali.com/shinyjs/)
