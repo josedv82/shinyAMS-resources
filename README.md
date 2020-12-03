@@ -1,4 +1,3 @@
-[![HitCount](http://hits.dwyl.com/josedv82/shinyAMS-resources.svg)](http://hits.dwyl.com/josedv82/shinyAMS-resources)
 
 # Building Shiny Athlete Management Tools
 ### A compilation of resources for Sport Scientists using Shiny to build athlete management tools.
