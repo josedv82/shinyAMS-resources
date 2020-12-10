@@ -54,6 +54,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [shinyMaterial](https://ericrayanderson.github.io/shinymaterial/)
 - [bootstraplib](https://rstudio.github.io/bootstraplib/)
 - [thematic](https://rstudio.github.io/thematic/articles/auto.html)
+- [bslib](https://rstudio.github.io/bslib/)
 
 
 ### 3. **Showing Data**  
