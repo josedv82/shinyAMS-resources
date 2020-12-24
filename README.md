@@ -150,6 +150,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui)
 - [fabricerin](https://github.com/feddelegrand7/fabricerin)
 - [shinyScroll](https://github.com/JohnCoene/shinyscroll)
+- [prompter (tooltips)](https://github.com/etiennebacher/prompter)
 
 ### 12. **File Access**
 - [shinyFiles](https://github.com/thomasp85/shinyFiles)
