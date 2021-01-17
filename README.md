@@ -59,7 +59,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 ### 3. **Showing Data**  
 ##### 3.1 Static Plots  
-- [Base R](https://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html)  
+- [Base R](https://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html) + [base themes](https://github.com/karoliskoncevicius/basetheme)
 - [Ggplot2](https://ggplot2.tidyverse.org/)
 - [Patchwork](https://github.com/thomasp85/patchwork)
 
