@@ -111,6 +111,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 ### 5. **Forms**
 - Form Code example (to do)  
 - [shinyForms](https://github.com/daattali/shinyforms)
+- [shinyreforms](https://piotrbajger.github.io/shinyreforms/articles/tutorial.html)
 - [FAQ Section](https://github.com/jienagu/faq)
 
 ### 6. **User Inputs**
