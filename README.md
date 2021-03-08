@@ -114,6 +114,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [shinyForms](https://github.com/daattali/shinyforms)
 - [shinyreforms](https://piotrbajger.github.io/shinyreforms/articles/tutorial.html)
 - [FAQ Section](https://github.com/jienagu/faq)
+- [shinySurveys](https://github.com/jdtrat/shinysurveys)
 
 ### 6. **User Inputs**
 - [Basic inputs](https://shiny.rstudio.com/tutorial/written-tutorial/lesson3/) 
