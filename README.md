@@ -196,6 +196,14 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [arrow](https://arrow.apache.org/docs/r/)
 - [qs](https://github.com/traversc/qs)
 
+### 21. **Shiny Community Resources**
+
+- [Shiny Gallery User Showcase](https://shiny.rstudio.com/gallery/#user-showcase)
+- [Shiny Developer Series](https://shinydevseries.com)
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- [Mastering Shiny](https://mastering-shiny.org/)
+- [Outstanding Shiny User Interfaces](https://unleash-shiny.rinterface.com/index.html)
+
 ## Final notes:
 
 This document is an extension of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1197909220890480640)
