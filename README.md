@@ -42,6 +42,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 ##### 1.3 Html Templates
 - [Rinterface](https://rinterface.com/) + [shinyDashboardPlus Example](https://josedv.shinyapps.io/NBASchedule/)
 - [Shiny Semantic](https://github.com/Appsilon/shiny.semantic) 
+- [Shiny Fluent](https://appsilon.github.io/shiny.fluent/)
 
 ##### 1.4 Mobile Devices
 - [shinyMobile](https://rinterface.github.io/shinyMobile/index.html)
