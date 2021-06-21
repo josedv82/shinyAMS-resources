@@ -157,6 +157,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [prompter (tooltips)](https://github.com/etiennebacher/prompter)
 - [Brochure](https://colinfay.me/brochure-r-package/)
 - [Shiny React](https://github.com/Appsilon/shiny.react)
+- [shinyGlide](https://juba.github.io/shinyglide/)
 
 ### 12. **File Access**
 - [shinyFiles](https://github.com/thomasp85/shinyFiles)
