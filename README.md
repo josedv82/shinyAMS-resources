@@ -71,6 +71,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Plotly](https://plotly.com/r/)  
 - [Echarts4R](https://echarts4r.john-coene.com/)
 - [sparkline](https://github.com/htmlwidgets/sparkline)
+- [peity](https://github.com/JohnCoene/peity)
 - [dataui](https://timelyportfolio.github.io/dataui/index.html)
 - [shinydlplot](https://cran.r-project.org/web/packages/shinydlplot/readme/README.html)
 - [shinyHeatmaply](https://github.com/yonicd/shinyHeatmaply)
@@ -84,6 +85,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Formattable](http://renkun-ken.github.io/formattable/)    
 - [Flextable](https://davidgohel.github.io/flextable/)  
 - [Reacttable](https://glin.github.io/reactable/) + [my example](https://github.com/josedv82/ReactTable-Shiny)
+- [reactablefmtr](https://github.com/kcuilla/reactablefmtr)
 - [Graphical Tables](https://pdfs.semanticscholar.org/76a0/c9984d656592f2979569e895333de21464bb.pdf?_ga=2.39740005.714811824.1593711014-2057169377.1593711014) + [my example](https://github.com/josedv82/graphicalDT)
 
 ##### 3.5 Editable Tables
@@ -150,6 +152,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 ### 8. **Icons**
 - [Fontawesome](https://fontawesome.com/)
 - [Glyphicon](https://getbootstrap.com/docs/3.3/components/) 
+- [icongram](https://github.com/r4fun/icongram)
 - [Use your own image](https://gist.github.com/hrbrmstr/605e62c5bf6deadf304d80cf4b1f0239)  (example)
 
 ### 9. **Calendars**
