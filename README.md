@@ -244,3 +244,10 @@ This document is an extension of a previous [Twitter thread](https://twitter.com
 
 <img width="350" src="https://github.com/josedv82/shinyAMS-resources/blob/master/twitter.PNG">
 
+## Contribute:
+
+Please feel free to contribute to this repository with shiny examples, packages and functionalities that may be useful when using Shiny as an AMS.
+
+If not sure about how to make a contribution, here is a tutorial that explains how to contribute to a github project: [LINK](https://github.com/MarcDiethelm/contributing/blob/master/README.md)
+
+Thanks for your contribution!
