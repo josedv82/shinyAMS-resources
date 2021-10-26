@@ -245,6 +245,8 @@ Big thanks to those investing their time and knowledge to build these resources 
 </p>
 </details> 
 
+<hr>
+
 ## Final notes:
 
 This document is an extension of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1197909220890480640)
