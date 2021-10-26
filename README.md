@@ -31,6 +31,10 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 <hr>
 
+<details>
+<summary>Click here to see the list of all available Shiny Resources.</summary>
+<p>
+
 
 ### 1. **Dashboarding**
 ##### 1.1 Basic Shiny
@@ -237,6 +241,9 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [Mastering Shiny](https://mastering-shiny.org/)
 - [Outstanding Shiny User Interfaces](https://unleash-shiny.rinterface.com/index.html)
+  
+</p>
+</details> 
 
 ## Final notes:
 
