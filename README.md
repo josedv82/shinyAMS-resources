@@ -56,6 +56,9 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [bootstraplib](https://rstudio.github.io/bootstraplib/)
 - [thematic](https://rstudio.github.io/thematic/articles/auto.html)
 - [bslib](https://rstudio.github.io/bslib/)
+- [shinybootstrap2](https://cran.r-project.org/web/packages/shinybootstrap2/README.html)
+- [shinyBS](https://ebailey78.github.io/shinyBS/)
+- [shinyPanels](https://github.com/datasketch/shinypanels)
 
 
 ### 3. **Showing Data**  
@@ -69,6 +72,8 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Echarts4R](https://echarts4r.john-coene.com/)
 - [sparkline](https://github.com/htmlwidgets/sparkline)
 - [dataui](https://timelyportfolio.github.io/dataui/index.html)
+- [shinydlplot](https://cran.r-project.org/web/packages/shinydlplot/readme/README.html)
+- [shinyHeatmaply](https://github.com/yonicd/shinyHeatmaply)
 
 ##### 3.3 Mobile Charts
 - [mobileCharts](https://shiny.john-coene.com/mobileCharts/)
@@ -100,9 +105,12 @@ Big thanks to those investing their time and knowledge to build these resources 
 ##### 4.2 Via package
 - [ShinyAlert](https://github.com/daattali/shinyalert) 
 - [Toastr](https://github.com/MangoTheCat/shinytoastr) 
+- [shinyTostify](https://github.com/stla/shinyToastify)
 - [sweetAlert](http://shinyapps.dreamrs.fr/shinyWidgets/) (via shinyWidgets)  
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) 
 - [shinyPop](https://github.com/dreamRs/shinypop)
+- [shinyhelper](https://github.com/cwthom/shinyhelper)
+- [shinyhttr](https://github.com/curso-r/shinyhttr)
 
 ##### 4.3 Push Notes to athlete's mobile phones
 - [Pushover](https://cran.r-project.org/web/packages/pushoverr/pushoverr.pdf) + [my example](https://github.com/josedv82/Push_Notes_to_Athlete)
@@ -124,6 +132,14 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [DT Editable Input](https://github.com/jienagu/DT_editable_as_shiny_input)
 - [shinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) 
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets)
+- [shinyChakraSlider](https://github.com/stla/shinyChakraSlider)
+- [shinyfilter](https://github.com/jsugarelli/shinyfilter/)
+- [shinyGovstyle](https://github.com/moj-analytical-services/shinyGovstyle)
+- [shinyKnobs](https://github.com/cotepat/shinyKnobs)
+- [shinyMatrix](https://cran.r-project.org/web/packages/shinyMatrix/readme/README.html)
+- [shinyNotes](https://github.com/danielkovtun/shinyNotes)
+- [shinyRadioMatrix](https://cran.r-project.org/web/packages/shinyRadioMatrix/readme/README.html)
+- [shinyTime](https://burgerga.github.io/shinyTime/)
 
 ### 7. **Loaders**
 - [shinyCSSLoaders](https://github.com/daattali/shinycssloaders) 
@@ -158,9 +174,18 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [Brochure](https://colinfay.me/brochure-r-package/)
 - [Shiny React](https://github.com/Appsilon/shiny.react)
 - [shinyGlide](https://juba.github.io/shinyglide/)
+- [shiny.i18n](https://github.com/Appsilon/shiny.i18n)
+- [shinyanimate](https://github.com/Swechhya/shinyanimate)
+- [shinyBusy](https://github.com/dreamRs/shinybusy)
+- [shinyChakraUI](https://github.com/stla/shinyChakraUI)
+- [shinyDND](https://ayayron.shinyapps.io/dragndrop/)
+- [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen)
+- [shinyscreenshot](https://github.com/daattali/shinyscreenshot)
 
 ### 12. **File Access**
 - [shinyFiles](https://github.com/thomasp85/shinyFiles)
+- [shinyDrive](https://cran.r-project.org/web/packages/shinydrive/readme/README.html)
+- [shinyTree](https://github.com/shinyTree/shinyTree)
 
 ### 13. **Big AMS**
 - [Modules](https://shiny.rstudio.com/articles/modules.html)
@@ -170,10 +195,12 @@ Big thanks to those investing their time and knowledge to build these resources 
 - [shinyauthr](https://github.com/PaulC91/shinyauthr)
 - [shinymanager](https://datastorm-open.github.io/shinymanager/)
 - [polished](https://polished.tech/)
+- [shiny.reglog](https://cran.r-project.org/web/packages/shiny.reglog/readme/README.html)
 
-### 15. **App Reloading**
+### 15. **Landing Pages / App Reloading Screen**
 - [sever](https://sever.john-coene.com/)
 - [shinyDisconnect](https://github.com/daattali/shinydisconnect)
+- [shinyLP](https://github.com/jasdumas/shinyLP)
 
 ### 16. **App Tutorials / Tours**
 - [Cicerone](https://github.com/JohnCoene/cicerone)
@@ -190,7 +217,8 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 ### 19. **Images**
 
-- [shinyGallery](https://github.com/stefanieschneider/shinygallery)  
+- [shinyGallery](https://github.com/stefanieschneider/shinygallery)
+- [shinyImage](https://cran.r-project.org/web/packages/ShinyImage/README.html)
 
 ### 20. **Object Serialization (Reading/Saving Data)**
 
