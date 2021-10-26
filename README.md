@@ -211,5 +211,5 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 This document is an extension of a previous [Twitter thread](https://twitter.com/jfernandez__/status/1197909220890480640)
 
-<img width="350" src="https://www.dropbox.com/s/7tal1q153xi3jo7/shinytweet.png?raw=1">
+<img width="350" src="https://github.com/josedv82/shinyAMS-resources/blob/master/twitter.PNG">
 
