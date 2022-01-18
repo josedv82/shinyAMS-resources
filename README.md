@@ -162,6 +162,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 ### 9. **Calendars**
 - [tuicalendr](https://github.com/dreamRs/tuicalendr)
 - [calendR](https://github.com/R-CoderDotCom/calendR)
+- [toastui](https://dreamrs.github.io/toastui/)
 
 ### 10. **Error Messages**
 - [Basic Sanitizing](https://shiny.rstudio.com/articles/sanitize-errors.html)
