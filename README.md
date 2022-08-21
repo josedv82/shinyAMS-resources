@@ -94,7 +94,7 @@ Big thanks to those investing their time and knowledge to build these resources 
 
 ##### 3.5 Editable Tables
 - via [DT](https://blog.rstudio.com/2018/03/29/dt-0-4/) 
-- [DTedit](https://github.com/jbryer/DTedit)
+- [DTedit](https://github.com/jbryer/DTedit) + [my example](https://josedv.shinyapps.io/bball_event_tracker/)
 - [DataEditR](https://dillonhammill.github.io/DataEditR/)
 - [RhandsonTable](https://cran.r-project.org/web/packages/rhandsontable/vignettes/intro_rhandsontable.html)
 
